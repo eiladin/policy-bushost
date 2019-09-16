@@ -1,0 +1,3 @@
+sqs:
+  region: "us-west-2"
+  queueName: "policy-collector-queue"
